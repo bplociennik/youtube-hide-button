@@ -1,4 +1,6 @@
 # youtube-hide-button
+[![Made by AI](https://img.shields.io/badge/Made%20by-AI-lightgrey?style=for-the-badge)](https://github.com/mefengl/made-by-ai)
+
 > It is probably the most primitive and small extension quickly solving only one problem.
 
 ## Problem
