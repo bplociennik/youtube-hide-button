@@ -10,6 +10,9 @@ There is YouTube hide functionality which I'm using to make my subscriptions das
 
 An extension is primitive and was created in under 20 minutes using AI.
 
+## Tested
+- [x] Firefox v134.0.2, YouTube EN and PL version
+
 ## Potential ideas
 - [ ] Customize button label, icon and color
 - [ ] Auto hide watched videos

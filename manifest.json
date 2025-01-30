@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "YouTube Subscriptions videos hide button",
+  "name": "YouTube Subscriptions hide video button",
   "version": "0.1",
   "description": "Make it easier to hide videos from your YouTube Subscriptions feed.",
   "icons": {
@@ -10,6 +10,7 @@
     "activeTab",
     "https://www.youtube.com/*"
   ],
+  "homepage_url": "https://github.com/bplociennik/youtube-hide-button",
   
   "content_scripts": [
     {
